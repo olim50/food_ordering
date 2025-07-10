@@ -38,7 +38,9 @@ npm install
 
 ## Create .env file and add your credentials
 
-EXPO_PUBLIC_APPWRITE_PROJECT_ID=your_project_id EXPO_PUBLIC_APPWRITE_ENDPOINT=your_endpoint
+EXPO_PUBLIC_APPWRITE_PROJECT_ID=your_project_id
+
+EXPO_PUBLIC_APPWRITE_ENDPOINT=your_endpoint
 
 ## Start the project
 
@@ -52,14 +54,9 @@ Open your ExpoGO app on your phone and scan the QR code to view the project.
 
 Assets and snippets used in the project can be found in the **[video kit](<https://jsmastery.com/video-kit/d6633345-8797-4b96-8a4b-935618306d1d>)**.
 
-(<https://jsmastery.com/video-kit/d6633345-8797-4b96-8a4b-935618306d1d>)
-![![image](https://res.cloudinary.com/dsuzv7xqn/image/upload/v1752109408/markdown-images/u5gk26searfdcbbsmivh.png)]
-(assets/2025-07-10-05-41-36.png alt="Video Kit Banner")
-
 ## 🚀 More
 
 **Advance your skills with Next.js Pro Course**
 Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills.
 
-(<https://jsm.dev/rn-food-jsm>" target="_blank")
 ![![image](<https://res.cloudinary.com/dsuzv7xqn/image/upload/v1752108671/markdown-images/yka3iip7wufpqcycvirr.png>)]
