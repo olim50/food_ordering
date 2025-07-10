@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-Tailwind-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="Tailwind" />
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="TypeScript" />
   </div>
-
+</div>
 
 This project is based on the excellent tutorial by Adrian Hajdin (<https://github.com/adrianhajdin>) JavaScript Mastery, teaching how to build a modern food delivery application using Expo and Appwrite. The course demonstrates the implementation of the "mobile-first" approach, showcasing best practices in React Native development, state management with Zustand, and backend integration with Appwrite. While the original repository is no longer available, this adapted version maintains the educational value and core principles of the original course.
 
