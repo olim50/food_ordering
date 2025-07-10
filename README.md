@@ -1,7 +1,12 @@
 # 🎓 Course Attribution
 
-![![image](https://res.cloudinary.com/dsuzv7xqn/image/upload/v1752108507/markdown-images/rljlwt2h4eibyjqvnksh.png)](assets/2025-07-10-05-47-39.png)
-(<https://www.youtube.com/watch?v=LKrX390fJMw target="_blank">![image](https://res.cloudinary.com/dsuzv7xqn/image/upload/v1752109626/markdown-images/e1b9edapzakgdoy8vy8p.png))
+[![Project Banner](assets/readme/hero.png)](https://www.youtube.com/watch?v=LKrX390fJMw)
+
+![React Native](https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB)
+![Expo](https://img.shields.io/badge/-Expo-black?style=for-the-badge&logoColor=white&logo=expo&color=000020)
+![Appwrite](https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=F02E65)
+![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6)
 
 This project is based on the excellent tutorial by Adrian Hajdin (<https://github.com/adrianhajdin>) JavaScript Mastery, teaching how to build a modern food delivery application using Expo and Appwrite. The course demonstrates the implementation of the "mobile-first" approach, showcasing best practices in React Native development, state management with Zustand, and backend integration with Appwrite. While the original repository is no longer available, this adapted version maintains the educational value and core principles of the original course.
 
