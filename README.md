@@ -1,6 +1,8 @@
-# 🎓 Course Attribution
+# Food Delivery App Course
 
-[![Project Banner](assets/readme/hero.png)](https://www.youtube.com/watch?v=LKrX390fJMw)
+[![YouTube](assets/readme/hero.png)](https://www.youtube.com/watch?v=LKrX390fJMw)
+
+## 🎓 Course Attribution
 
 ![React Native](https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB)
 ![Expo](https://img.shields.io/badge/-Expo-black?style=for-the-badge&logoColor=white&logo=expo&color=000020)
@@ -26,7 +28,8 @@ Make sure you have the following installed on your machine:
 
 ## Clone the repository
 
-git clone [<https://github.com/olim50/food_ordering.git>][<https://github.com/olim50/food_ordering.git>]
+git clone [<https://github.com/olim50/food_ordering.git>]
+<https://github.com/olim50/food_ordering.git>
 
 cd food_ordering
 
@@ -59,4 +62,4 @@ Assets and snippets used in the project can be found in the **[video kit](<https
 **Advance your skills with Next.js Pro Course**
 Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills.
 
-![![image](<https://res.cloudinary.com/dsuzv7xqn/image/upload/v1752108671/markdown-images/yka3iip7wufpqcycvirr.png>)]
+![image](<https://res.cloudinary.com/dsuzv7xqn/image/upload/v1752108671/markdown-images/yka3iip7wufpqcycvirr.png>)
