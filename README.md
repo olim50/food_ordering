@@ -1,5 +1,5 @@
 # Food Delivery App Course
-<!-- markdownlint-disable MD033 -->
+
 [![image](assets/readme/hero.png alt="hero image")](<https://www.youtube.com/watch?v=LKrX390fJMw>)
 
 ## 🎓 Course Attribution
@@ -28,7 +28,7 @@ Make sure you have the following installed on your machine:
 
 ## Clone the repository
 
-git clone https://github.com/olim50/food_ordering.git
+git clone <https://github.com/olim50/food_ordering.git>
 
 cd food_ordering
 
