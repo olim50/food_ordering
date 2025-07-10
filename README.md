@@ -1,11 +1,7 @@
 # Food Delivery App Course
 <!-- markdownlint-disable MD033 -->
 <div align="center">
-  <br />
-    <a href="https://www.youtube.com/watch?v=LKrX390fJMw" target="_blank">
-      <img src="assets/readme/hero.png" alt="Project Banner">
-    </a>
-  <br />
+![image](<https://res.cloudinary.com/dsuzv7xqn/image/upload/v1752108671/markdown-images/yka3iip7wufpqcycvirr.png>)
 
   <div>
     <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="React Native" />
