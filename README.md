@@ -1,6 +1,6 @@
 # Food Delivery App Course
 
-[![YouTube](assets/readme/hero.png)](https://www.youtube.com/watch?v=LKrX390fJMw)
+[![image](assets/readme/hero.png)](https://www.youtube.com/watch?v=LKrX390fJMw)
 
 ## 🎓 Course Attribution
 
