@@ -1,6 +1,6 @@
 # Food Delivery App Course
-
-[![image](assets/readme/hero.png)](https://www.youtube.com/watch?v=LKrX390fJMw)
+<!-- markdownlint-disable MD033 -->
+[![]('assets/readme/hero.png alt="hero img"')](<https://www.youtube.com/watch?v=LKrX390fJMw>)
 
 ## 🎓 Course Attribution
 
